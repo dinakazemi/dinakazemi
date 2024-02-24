@@ -1,8 +1,8 @@
 github:
   is_project_page: false
 
-theme: jekyll-theme-cayman
-title: "My Blogs Name"
+theme: jekyll-theme-midnight
+title: "Blog Titlte"
 author: "Dina Kazemi"
 description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
