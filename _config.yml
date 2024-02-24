@@ -1,10 +1,10 @@
 github:
   is_project_page: false
 
-theme: jekyll-theme-midnight
-title: "Blog Titlte"
+theme: jekyll-theme-cayman
+title: "Quantise & Optimise: Navigating CNNs for Resource-Constrained Devices"
 author: "Dina Kazemi"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Computer Vision | Deep Learning | CNN Quantisation " # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
