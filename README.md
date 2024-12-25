@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👩🏻‍💻 I’m currently working as a Software Engineer at Garvan Institute of Medical Research, implementing a pipeline for processing spatial transcriptomics and image datasets
+- 🤖 I’d like to venture into AI and ML engineering from time to time
+- 🏃‍♀️ I’m in the process of improving my GitHub presence
+- 📸 I like photography, jogging, and traveling off the beaten track
