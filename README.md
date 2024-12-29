@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🤖 I’d like to venture into AI and ML engineering from time to time
 - 📸 I like photography, jogging, and traveling off the beaten track
 
-### Languages and Toold
+### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,visualstudio,vim,r,git,github,anaconda)](https://skillicons.dev)
