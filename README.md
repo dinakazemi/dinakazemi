@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 👩🏻‍💻 I’m currently working as a Software Engineer at Garvan Institute of Medical Research, implementing a pipeline for processing spatial transcriptomics and image datasets
 - 🤖 I’d like to venture into AI and ML engineering from time to time
 - 📸 I like photography, jogging, and traveling off the beaten track
+
+### Languages and Toold
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,visualstudio,vim,r,git,github,anaconda)](https://skillicons.dev)
