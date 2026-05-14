@@ -1,22 +1,59 @@
-## Hi there, I'm Dina 👋
+# Hey there, I'm Dina 👋🛸
 
-<!--
-**dinakazemi/dinakazemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer × Archaeologist x Visual Storyteller**
 
-Here are some ideas to get you started:
+*"Do or do not, there is no try."* — but honestly, I try a lot of things. They fail more often than not, but every failure teaches you something the documentation never will. 🚀
+ 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 👩🏻‍💻 I’m currently working as a Software Engineer at Garvan Institute of Medical Research, implementing a pipeline for processing spatial transcriptomics and image datasets
-- 🤖 I’d like to venture into AI and ML engineering from time to time
-- 📸 I like photography, jogging, and traveling off the beaten track
+### 🗺️ The Journey So Far
+ 
+```
+2026  ╌╌╌  ✈️ Career break — traveled, recharged
+  │           📝 Published in Nature Communications
+2025  ╌╌╌  🧬 Garvan Institute — medical imaging pipelines
+  │        
+2024  ╌╌╌  🧬 Garvan Institute — medical imaging pipelines
+  │        
+2023  ╌╌╌  🏗️ Elula — AWS infrastructure, fintech
+  │
+2022  ╌╌╌  🎓 Graduated USyd — First Class Honours
+  │          🧪 CSIRO — deep learning for medical imaging
+```
+ 
+---
+ 
+### 🧰 The Toolkit
+ 
+```
+Languages        Python · R · SQL
+ML / CV          PyTorch · Deep Learning · Computer Vision
+Cloud            AWS (EC2 · S3 · Fargate) · Terraform
+Systems          Linux · HPC Clusters
+Creative         Midjourney · Visual Storytelling · Runway ML
+```
+ 
+---
+ 
+### 🧪 Fun Facts
+ 
+- 🏺 I once wrote software to study **3,200-year-old tin ingots** from a Bronze Age shipwreck. Indiana Jones could never.
+- 🗺️ I have a degree in Arts alongside Engineering — because you can't render what you don't understand.
+- 🌌 I believe the best way to understand quantum physics is to *feel* it, not read about it.
+- 🧮 My Honours thesis was about making neural networks work on tiny hardware — *"It's a small world after all"* but for edge devices.
+- ☕ Fueled by coffee.
+---
+ 
+### 📫 Get In Touch
+ 
+If you want to talk about computer vision, AI filmmaking, ancient shipwrecks, or debate whether Han shot first — I'm here for it.
 
-### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,visualstudio,vim,r,git,github,anaconda)](https://skillicons.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinakazemi)
+ 
+---
+ 
+<p align="center">
+  <i>"Live Long and Prosper"</i>🖖
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=dinakazemi&color=blueviolet&style=flat-square" alt="Profile views">
+</p>
