@@ -39,7 +39,6 @@ Creative         Midjourney · Visual Storytelling · Runway ML
  
 - 🏺 I once wrote software to study **3,200-year-old tin ingots** from a Bronze Age shipwreck. Indiana Jones could never.
 - 🗺️ I have a degree in Arts alongside Engineering — because you can't render what you don't understand.
-- 🌌 I believe the best way to understand quantum physics is to *feel* it, not read about it.
 - 🧮 My Honours thesis was about making neural networks work on tiny hardware — *"It's a small world after all"* but for edge devices.
 - ☕ Fueled by coffee.
 ---
