@@ -2,7 +2,7 @@
 
 **Software Engineer × Archaeologist x Visual Storyteller**
 
-*"Do or do not, there is no try."* — but honestly, I try a lot of things. They fail more often than not, but every failure teaches you something the documentation never will. 🚀
+*"Do or do not, there is no try."* but honestly, I try a lot of things. They fail more often than not, but every failure teaches you something the documentation never will. 🚀
  
 ---
 
