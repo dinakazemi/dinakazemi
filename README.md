@@ -45,7 +45,7 @@ Creative         Midjourney · Visual Storytelling · Runway ML
  
 ### 📫 Get In Touch
  
-If you want to talk about computer vision, AI filmmaking, ancient shipwrecks, or debate whether Han shot first ...'m here for it.
+If you want to talk about computer vision, AI filmmaking, ancient shipwrecks, or debate whether Han shot first...I'm here for it.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinakazemi)
  
